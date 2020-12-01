@@ -1,0 +1,486 @@
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\csc.exe
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\vbc.exe
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\prosamiWeb.dll.config
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\prosamiWeb.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\prosamiWeb.pdb
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Antlr3.Runtime.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\EntityFramework.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Newtonsoft.Json.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Owin.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\PagedList.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\PagedList.Mvc.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Helpers.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Mvc.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Optimization.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Razor.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\WebGrease.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\PagedList.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\PagedList.Mvc.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Helpers.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Mvc.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Optimization.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Razor.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Antlr3.Runtime.pdb
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Newtonsoft.Json.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\EntityFramework.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.InitialCreate.resources
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.update_user_fields.resources
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.StoreConfiguration.twocontextreset.resources
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.StoreConfiguration.AddBasketLine.resources
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.StoreConfiguration.addorders.resources
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csproj.GenerateResource.cache
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csproj.CoreCompileInputs.cache
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csproj.CopyComplete
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.dll
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.pdb
+C:\Users\woods\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csprojAssemblyReference.cache
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\roslyn\csc.exe
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\roslyn\vbc.exe
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\prosamiWeb.dll.config
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\prosamiWeb.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\prosamiWeb.pdb
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Antlr3.Runtime.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\EntityFramework.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Newtonsoft.Json.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Owin.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\PagedList.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\PagedList.Mvc.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\System.Web.Helpers.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\System.Web.Mvc.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\System.Web.Optimization.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\System.Web.Razor.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\WebGrease.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\PagedList.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\PagedList.Mvc.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\System.Web.Helpers.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\System.Web.Mvc.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\System.Web.Optimization.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\System.Web.Razor.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Antlr3.Runtime.pdb
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Newtonsoft.Json.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\EntityFramework.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csprojAssemblyReference.cache
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.InitialCreate.resources
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.update_user_fields.resources
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.StoreConfiguration.twocontextreset.resources
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.StoreConfiguration.AddBasketLine.resources
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.StoreConfiguration.addorders.resources
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csproj.GenerateResource.cache
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csproj.CoreCompileInputs.cache
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csproj.CopyComplete
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.dll
+C:\Users\woods\Desktop\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.pdb
+G:\WIL\prosamiWeb\prosamiWeb\bin\roslyn\csc.exe
+G:\WIL\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\WIL\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\WIL\prosamiWeb\prosamiWeb\bin\roslyn\System.Collections.Immutable.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\roslyn\System.Reflection.Metadata.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\roslyn\vbc.exe
+G:\WIL\prosamiWeb\prosamiWeb\bin\roslyn\VBCSCompiler.exe
+G:\WIL\prosamiWeb\prosamiWeb\bin\roslyn\VBCSCompiler.exe.config
+G:\WIL\prosamiWeb\prosamiWeb\bin\prosamiWeb.dll.config
+G:\WIL\prosamiWeb\prosamiWeb\bin\prosamiWeb.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\prosamiWeb.pdb
+G:\WIL\prosamiWeb\prosamiWeb\bin\Antlr3.Runtime.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\EntityFramework.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\EntityFramework.SqlServer.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Core.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Cookies.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Facebook.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Google.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.OAuth.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Twitter.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Web.Infrastructure.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\Newtonsoft.Json.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\Owin.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\PagedList.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\PagedList.Mvc.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\System.Web.Helpers.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\System.Web.Mvc.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\System.Web.Optimization.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\System.Web.Razor.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Deployment.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Razor.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\WebGrease.dll
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\PagedList.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\PagedList.Mvc.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\System.Web.Helpers.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\System.Web.Mvc.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\System.Web.Optimization.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\System.Web.Razor.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Deployment.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Razor.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\Antlr3.Runtime.pdb
+G:\WIL\prosamiWeb\prosamiWeb\bin\Newtonsoft.Json.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\EntityFramework.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\EntityFramework.SqlServer.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Core.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Facebook.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Cookies.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.OAuth.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Google.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Twitter.xml
+G:\WIL\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csprojAssemblyReference.cache
+G:\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.InitialCreate.resources
+G:\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.update_user_fields.resources
+G:\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.StoreConfiguration.twocontextreset.resources
+G:\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.StoreConfiguration.AddBasketLine.resources
+G:\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.StoreConfiguration.addorders.resources
+G:\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csproj.GenerateResource.cache
+G:\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csproj.CoreCompileInputs.cache
+G:\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csproj.CopyComplete
+G:\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.dll
+G:\WIL\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.pdb
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\csc.exe
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\vbc.exe
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\prosamiWeb.dll.config
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\prosamiWeb.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\prosamiWeb.pdb
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Antlr3.Runtime.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\EntityFramework.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Newtonsoft.Json.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Owin.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\PagedList.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\PagedList.Mvc.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Helpers.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Mvc.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Optimization.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Razor.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\WebGrease.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\PagedList.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\PagedList.Mvc.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Helpers.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Mvc.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Optimization.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Razor.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Newtonsoft.Json.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\EntityFramework.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csprojAssemblyReference.cache
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.InitialCreate.resources
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.update_user_fields.resources
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.StoreConfiguration.twocontextreset.resources
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.StoreConfiguration.AddBasketLine.resources
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.StoreConfiguration.addorders.resources
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csproj.GenerateResource.cache
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csproj.CoreCompileInputs.cache
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csproj.CopyComplete
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.dll
+C:\Users\Prince\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.pdb
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\csc.exe
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\prosamiWeb.dll.config
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\prosamiWeb.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\prosamiWeb.pdb
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\EntityFramework.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Owin.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\PagedList.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\PagedList.Mvc.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\WebGrease.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\PagedList.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\PagedList.Mvc.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\EntityFramework.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csprojAssemblyReference.cache
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.InitialCreate.resources
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.update_user_fields.resources
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.StoreConfiguration.twocontextreset.resources
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.StoreConfiguration.AddBasketLine.resources
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.Migrations.StoreConfiguration.addorders.resources
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csproj.GenerateResource.cache
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.csproj.CopyComplete
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.dll
+C:\Users\user\Desktop\prosamiWeb\prosamiWeb\obj\Debug\prosamiWeb.pdb
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\roslyn\csc.exe
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\roslyn\vbc.exe
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\prosamiWeb.dll.config
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\prosamiWeb.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\prosamiWeb.pdb
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Antlr3.Runtime.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\EntityFramework.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.Owin.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Newtonsoft.Json.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Owin.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\PagedList.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\PagedList.Mvc.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\System.Web.Helpers.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\System.Web.Mvc.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\System.Web.Optimization.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\System.Web.Razor.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\System.Web.WebPages.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\WebGrease.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\PagedList.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\PagedList.Mvc.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\System.Web.Helpers.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\System.Web.Mvc.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\System.Web.Optimization.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\System.Web.Razor.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\System.Web.WebPages.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Antlr3.Runtime.pdb
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Newtonsoft.Json.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\EntityFramework.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.Owin.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\obj\Debug\prosamiWeb.csprojAssemblyReference.cache
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\obj\Debug\prosamiWeb.Migrations.InitialCreate.resources
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\obj\Debug\prosamiWeb.Migrations.update_user_fields.resources
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\obj\Debug\prosamiWeb.Migrations.StoreConfiguration.twocontextreset.resources
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\obj\Debug\prosamiWeb.Migrations.StoreConfiguration.AddBasketLine.resources
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\obj\Debug\prosamiWeb.Migrations.StoreConfiguration.addorders.resources
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\obj\Debug\prosamiWeb.csproj.GenerateResource.cache
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\obj\Debug\prosamiWeb.csproj.CoreCompileInputs.cache
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\obj\Debug\prosamiWeb.csproj.CopyComplete
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\obj\Debug\prosamiWeb.dll
+C:\Users\woods\Desktop\prosamiWeb WITH TEMPLATE\prosamiWeb\obj\Debug\prosamiWeb.pdb
